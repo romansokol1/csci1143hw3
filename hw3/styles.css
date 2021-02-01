@@ -1,0 +1,29 @@
+body {
+	color:white;
+	background-color:black;
+}
+a {
+	color: white
+}
+a:visited {
+  color: white;
+}
+a:hover, a:active, a:focus {
+  color:white;
+}
+header{
+	background-color: red;
+            padding: 5px 10px;
+
+}
+ p {
+        font-size:16px;
+        }
+ul li {font-weight: bold;
+}
+.img-with-text {
+    text-align: right;
+    width: 175px ;
+    float: right;
+    margin: 10px;
+}
